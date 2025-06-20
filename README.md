@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This repository showcases my skills, p
 
 ## 🌟 Live Demo
 
-Visit my portfolio: [https://bharathiprasad.github.io/portfolio](https://bharathiprasad.github.io/portfolio)
+Visit my portfolio: [https://github.com/bharathiprasad/my_portfolio]
 
 ## 📋 About
 
@@ -49,7 +49,7 @@ portfolio/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/bharathiprasad/portfolio.git
+git clone https://github.com/bharathiprasad/my_portfolio.git
 ```
 
 2. Navigate to the project directory
