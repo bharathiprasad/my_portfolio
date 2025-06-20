@@ -114,7 +114,7 @@ npx serve
 1. Push your code to a GitHub repository
 2. Go to repository Settings > Pages
 3. Select "Deploy from a branch" and choose "main"
-4. Your portfolio will be live at `https://bharathiprasad.github.io/portfolio`
+4. Your portfolio will be live at `https://bharathiprasad.github.io/my_portfolio`
 
 ### Other Deployment Options
 - **Netlify**: Drag and drop the `index.html` file
