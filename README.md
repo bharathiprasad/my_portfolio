@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This repository showcases my skills, p
 
 ## 🌟 Live Demo
 
-Visit my portfolio: [https://github.com/bharathiprasad/my_portfolio]
+Visit my portfolio: [https://bharathiprasad.github.io/my_portfolio/]
 
 ## 📋 About
 
