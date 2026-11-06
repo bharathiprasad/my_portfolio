@@ -63,7 +63,7 @@ cd portfolio
 python -m http.server 8000
 
 # Using Node.js
-np serve
+npx serve
 
 # Or simply double-click index.html
 ```
