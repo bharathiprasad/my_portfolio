@@ -1,6 +1,6 @@
 # Bharathi Prasad Juvvadi - Portfolio
 
-Welcome to my personal portfolio website! This repository showcases my skills, projects, and experience as a **Python Developer & AI Specialist** with expertise in automation solutions and machine learning.
+Welcome to my personal portfolio website! This repository showcases my skills, projects, and experience as a **AI Engineer | Generative AI & Machine Learning** with expertise in automation solutions and machine learning.
 
 ## 🌟 Live Demo
 
@@ -8,7 +8,7 @@ Visit my portfolio: [https://bharathiprasad.github.io/my_portfolio/]
 
 ## 📋 About
 
-This portfolio website represents my journey as an experienced Python Developer specializing in automation solutions and AI integrations using OCR, NLP, and machine learning. It features a modern, responsive design with smooth animations that highlights my technical expertise and professional experience in delivering scalable solutions for financial and analytical environments.
+I am an AI/ML Engineer with 5+ years of experience building machine learning solutions, intelligent applications, and production-ready AI systems across healthcare, digital experiences, and enterprise environments. My work spans Generative AI and LLM applications, retrieval-augmented generation (RAG), NLP, predictive modeling, recommendation systems, and cloud-based deployment. I use Python and modern AI/ML frameworks to turn complex business requirements and data into reliable, scalable solutions.
 
 ## 🛠️ Built With
 
@@ -72,18 +72,20 @@ npx serve
 
 - **Hero Section** - Introduction with professional title and call-to-action
 - **About** - Professional summary and expertise overview
-- **Technical Skills** - Comprehensive breakdown of technologies and tools:
-  - Programming Languages (Python, Java)
-  - Python Libraries & ML (NumPy, Pandas, Scikit-learn, Keras, NLTK, etc.)
-  - Frameworks & Tools (Django, Flask, Docker, Jenkins, etc.)
-  - Databases (Oracle, SQL Server, MySQL, MongoDB, Hadoop)
-  - Cloud & AWS (EC2, S3, Lambda, SageMaker, etc.)
-  - Web Technologies (HTML5, CSS3, JavaScript, REST APIs)
-- **Featured Projects** - Showcase of key projects:
-  - Fall Detection System (IoT & Health Monitoring)
-  - AI-Based Medical Chatbot (NLP & Healthcare AI)
-  - Smart Device for Visually Impaired (Accessibility & IoT)
-  - Image-Based Fashion Recommendation (Computer Vision & ML)
+- **Technical Skills** - Technologies and tools across AI engineering, machine learning, cloud, and software development:
+  - **Programming Languages:** Python, SQL, R, Scala, Bash
+  - **Generative AI & LLMs:** OpenAI, Gemini, Claude, AWS Bedrock, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), prompt engineering, Hugging Face Transformers
+  - **AI Agents & Vector Search:** MCP, AutoGen, FAISS, Pinecone
+  - **Machine Learning & Deep Learning:** PyTorch, TensorFlow, scikit-learn, XGBoost, Pandas, NumPy, CNNs, OpenCV, YOLO, time-series modeling (Prophet, LSTM), explainable AI (SHAP, LIME)
+  - **NLP:** spaCy, NLTK, TextBlob, BERT, RoBERTa
+  - **Cloud Platforms:** AWS (SageMaker, Bedrock, Lambda, Glue, EMR, Kinesis, S3), Azure (Azure ML, Databricks, AKS, Synapse)
+  - **MLOps & DevOps:** MLflow, Docker, Kubernetes (EKS/AKS), Terraform, Apache Airflow, GitHub Actions, Azure DevOps, Git
+  - **Data Engineering & Databases:** Apache Spark/PySpark, Kafka, Databricks, ETL pipelines, data lakes (S3, ADLS), PostgreSQL, SQL, DynamoDB, MongoDB
+  - **APIs, Applications & Monitoring:** FastAPI, Flask, Streamlit, REST APIs, Power BI, Grafana, Prometheus
+- **Professional Project Work** - Selected AI/ML engineering work:
+  - **UnitedHealth Group | AI Engineer (February 2023 – Present):** Developed claims adjudication models using Python, XGBoost, and ICD-10 features to identify coding discrepancies and support reimbursement exception triage. Built clinical NLP workflows with spaCy and BERT to extract diagnoses, medications, and procedures from clinical notes. Integrated HL7 FHIR resources and Azure AI Search into retrieval workflows with source traceability, and developed PyTorch/OCR document classification for prior authorization review.
+  - **Adobe | AI Engineer (January 2022 – December 2022):** Built audience propensity models using Adobe Experience Platform and Spark MLlib to create behavior-based segments. Developed creative asset recommendation pipelines with TensorFlow and implicit feedback signals. Used Adobe Analytics and SQL to analyze customer journeys, and orchestrated behavioral event transformations with Databricks and Delta Lake to create governed feature tables for content affinity scoring.
+  - **IBM | Machine Learning Engineer (August 2020 – July 2021):** Developed equipment-failure forecasting models with scikit-learn and time-series features to identify anomalous sensor patterns. Standardized model experiments with MLflow and DVC for reproducibility and dataset lineage. Deployed anomaly-detection services using Docker, Kubernetes, and REST APIs, and automated batch feature processing with Apache Airflow and PostgreSQL.
 - **Education** - Academic background:
   - MS Computer Science - University of Dayton
   - BTech Computer Science - Nalla Malla Reddy Engineering College
@@ -101,10 +103,10 @@ npx serve
 
 ## 📧 Contact Information
 
-- **Email**: juvvadibp@gmail.com
-- **Phone**: +1 937-829-1334
+- **Email**: prasadaiengineer@gmail.com
+- **Phone**: +1 937-468-5584
 - **Location**: Coppell, Texas, 75019
-- **LinkedIn**: [bharathi-prasad-juvvadi](https://www.linkedin.com/in/bharathi-prasad-juvvadi/)
+- **LinkedIn**: [prasadjuvvadi](https://www.linkedin.com/in/prasadjuvvadi/)
 - **GitHub**: [bharathiprasad](https://github.com/bharathiprasad)
 - **HackerRank**: [juvvadi_prasad](https://www.hackerrank.com/profile/juvvadi_prasad)
 
